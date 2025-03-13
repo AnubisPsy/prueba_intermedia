@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <circle cx="100" cy="100" r="90" fill="#2c3e50" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial"
+        font-size="40" font-weight="bold" fill="white">$</text>
+    <path
+        d="M120,140 C140,120 140,80 120,60 C100,40 60,40 40,60 C20,80 20,120 40,140 C60,160 100,160 120,140 Z"
+        fill="none" stroke="white" stroke-width="8" stroke-dasharray="10,5" />
+</svg>
